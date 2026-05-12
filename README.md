@@ -10,6 +10,7 @@ Sơ đồ thực thể liên kết trong sql
 <img width="1919" height="1079" alt="Screenshot 2026-05-12 190959" src="https://github.com/user-attachments/assets/603d77a9-0013-4631-9762-1ae68c925c37" />
 hinh vẽ
 <img width="830" height="725" alt="image" src="https://github.com/user-attachments/assets/4f20e4dc-1a69-43bb-bdf5-54ffbe7b71bf" />
+
 Nhiệm vụ 2: Cài đặt SQL
 Event 1: Đăng ký hợp đồng mới (Vay tiền)
 Tạo database QuanLyCamCo và tất cả bảng dữ liệu
